@@ -15,3 +15,4 @@ Only link Monsters are not accounted for in this project yet.
 
 ## Built With
 * [Selenium](https://selenium-python.readthedocs.io/) - For controlling the Browser
+* [Card API](https://db.ygoprodeck.com/api-guide/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) - For getting Cards info/Images
